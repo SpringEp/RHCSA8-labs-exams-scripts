@@ -1,0 +1,10 @@
+#!/bin/bash
+
+echo "user20 ALL=(ALL) NOPASSWD:ALL" > /etc/sudoers.d/user20 
+sudo -u user20 sudo cat /boot/efi/EFI/redhat/grub.cfg > /dev/null
+if [  $? -eq 0 ]; then
+	echo user20 has a sudo privileges without password
+else 
+	echo error
+fi
+
