@@ -5,8 +5,8 @@ In the preparation for RHCSA8, I'm going through 124 and 134 labs, so I'll post 
 
 Exams: 
 
-1. [RHCSA8 Sample Exam](https://github.com/SpringEp/RHEL8-lab-134-scripts/wiki/RHCSA8-Sample-Exam-1)  
-
+1. [RHCSA8 Sample Exam 1 - A. Ghori](https://github.com/SpringEp/RHEL8-lab-134-scripts/wiki/RHCSA8-Sample-Exam-1)  
+2. [RHCSA8 SAMPLE EXAM 2 - A Cloud Guru Lab](https://github.com/SpringEp/RHEL8-lab-134-scripts/wiki/RHCSA8-Sample-Exam-2---acloudguru)
 
 Notes:
 1. [ACLs](https://github.com/SpringEp/RHEL8-lab-134-scripts/wiki/ACLs)  
